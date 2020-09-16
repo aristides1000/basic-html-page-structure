@@ -112,3 +112,10 @@ color: #ffffff;
 #icons{
     padding-left: 1em;
 }
+
+#youtube-video{
+    padding-top: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    background-color: #EEEEEE;
+}
