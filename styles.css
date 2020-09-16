@@ -2,31 +2,77 @@
     box-sizing: border-box;
 }
 
-input[type=text] {
-    padding: 10px;
-    font-size: 17px;
-    border: 1px solid grey;
+body{
+    background-color: #EEEEEE;
+}
+
+input[name=search] {
+    background: #ffffff;
     float: left;
+    padding: 0.6rem;
     width: 80%;
-    background: #f1f1f1;
+    font-size: 1rem;
+    border: 0.1rem solid grey;
 }
 
-button {
+#button-search {
     float: left;
-    width: 20%;
-    padding: 10px;
-    background: #2196F3;
-    color: white;
-    font-size: 17px;
-    border: 1px solid grey;
-    border-left: none;
     cursor: pointer;
+    width: 20%;
+    font-size: 1rem;
+    background: #f0f0f0;
+    border: 0.1rem solid grey;
+    border-left: none;
+    padding: 0.6rem;
+    color: #7e7e7e;
 }
 
-button:hover {
-    background: #0b7dda;
+#button-search:hover {
+    background: #bdbdbd;
 }
 
 #input-button-search{
     width: 50%;
+    position: absolute;
+    left: 18.5%;
+    top: 0.8rem;
+}
+
+#menu-icon{
+    position: absolute;
+    left: 1.5%;
+    top: 0.5rem;
+}
+
+#youtube-icon{
+    position: absolute;
+    left: 7.5%;
+    top: -0.5rem;
+}
+
+#upload-icon{
+    position: absolute;
+    left: 75%;
+    top: 0.55rem;
+}
+
+#Sig-in-button{
+    position: absolute;
+    left: 86%;
+    border: 1px solid grey;
+    padding: 10px;
+    background: #167ac6;
+    color: white;
+    top: 0.8rem;
+}
+
+.nav{
+    display: flex;
+    background-color: white;
+    height: 4.25rem;
+    z-index: 1;
+    position: relative;
+    top: -8px;
+    width: 107%;
+    right: 8px;
 }
