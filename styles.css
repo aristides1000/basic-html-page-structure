@@ -76,3 +76,39 @@ input[name=search] {
     width: 107%;
     right: 8px;
 }
+
+.number1 {
+background-color: rgb(22, 122, 198);
+color: #ffffff;
+}
+
+.subnumber1 {
+    background-color: rgb(255, 255,255);
+    padding: 1em;
+    border: 0.2em #167ac6 solid; 
+    color: #000000;
+}
+#learnmore{
+    float: right;
+    position: relative;
+    bottom: 30px;
+    text-decoration: none;
+    
+}
+#close{
+    float: right;
+    position: relative;
+    text-decoration: none;
+    color: #ffffff;
+    right: 1em;
+    bottom: 2.5em;
+}
+.language {
+ padding-left: 1em;   
+}
+#sublanguage{
+    padding-left: 1em;
+}
+#icons{
+    padding-left: 1em;
+}
