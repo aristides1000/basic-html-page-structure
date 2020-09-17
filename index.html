@@ -18,8 +18,9 @@
             <button type="submit" id="button-search"><i class="fa fa-search"></i></button>
         </div>
         <a href="about:blank" ><img src="/assets/uploadbtn.png" alt="a" height="50em" id="upload-icon"></a>
-            <input type="button" style="cursor: pointer;" value="Sign in" height="50em" id="Sig-in-button"></a>       
+            <input type="button" style="cursor: pointer;" value="Sign in" height="50em" id="Sig-in-button"></a>
     </navbar>
+
     <div class="number1">
         <table width="12%" border="0">
             <tr>
@@ -27,19 +28,42 @@
                     <p id="icons"><i class="fa fa-user"></i> <i class="fa fa-question"></i> </p>
                 </td>
                 <td>
-                    <p id="sublanguage">Choose your language.</p> 
+                    <p id="sublanguage">Choose your language.</p>
                 </td>
             </tr>
-        <table>     
+        <table>
     </div>
+    
     <a href="#" id="close">X</a>
+
     <div class="subnumber1">
-        <p>You're viewing YouTube in English (US). You can change this preference below.</p> 
+        <p>You're viewing YouTube in English (US). You can change this preference below.</p>
         <a href="about:blank" id="learnmore">Learn More</a>
     </div>
 
-    <div id="youtube-video">
-        <iframe width="700" height="394" src="https://www.youtube.com/embed/XZLo4s0XEPM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="grid-container">
+        <div id="video-grid-size">
+            <iframe width="1000" height="563" src="https://www.youtube.com/embed/XZLo4s0XEPM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen  id="youtube-video"></iframe>
+        </div>
+
+        <div class="video-list-grid">
+            <div class="background-white" id="height-playlist">
+                <div class="text-color">
+                    <div class="left-elements">
+                        <p id="up-next" class="padding-left">Up next</p>
+                    </div>
+                    <div class="right-elements">
+                        <p id="autoplay" class="padding-right">Autoplay</p>
+                        <p class="padding-right"><i class="fa fa-user"></i></p>
+                        <img class="padding-right padding-top" src="/assets/mainCheck.jpg" alt="mainCheck" height="100%" width="100%" >
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+
     </div>
+
+
 </body>
 </html>

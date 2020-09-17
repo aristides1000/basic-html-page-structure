@@ -4,6 +4,10 @@
 
 body{
     background-color: #EEEEEE;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+
 }
 
 input[name=search] {
@@ -104,7 +108,7 @@ color: #ffffff;
     bottom: 2.5em;
 }
 .language {
- padding-left: 1em;   
+ padding-left: 1em;
 }
 #sublanguage{
     padding-left: 1em;
@@ -119,3 +123,69 @@ color: #ffffff;
     padding-bottom: 1rem;
     background-color: #EEEEEE;
 }
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+}
+
+.video-grid-size{
+    width: 66.4rem;
+}
+
+.video-list-grid{
+    position: relative;
+    right: 0.6rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    background-color: #EEEEEE;
+    width: 100%;
+    width: 35.39rem;
+}
+
+.background-white{
+    background-color: white;
+}
+
+#up-next{
+    float: left;
+    color: black;
+}
+
+#autoplay{
+    float: right;
+    color: black;
+
+}
+
+.padding-right{
+    padding-right: 1rem;
+}
+
+.padding-left{
+    padding-left: 1rem;
+}
+
+.padding-top{
+    padding-top: 1rem;
+}
+
+#height-playlist{
+    height: 400rem;
+}
+
+.text-color{
+    color: black;
+}
+
+.left-elements{
+    float: left;
+}
+
+.right-elements{
+    float: right;
+    display: flex;
+}
+
