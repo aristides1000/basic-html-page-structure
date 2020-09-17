@@ -185,6 +185,7 @@ color: #ffffff;
 .right-elements{
     float: right;
     display: flex;
+    
 }
 .thumbnails {
     padding-top: 3.2rem;
@@ -280,3 +281,31 @@ color: #ffffff;
     bottom: 1.7rem;
     left: 49.55rem;
 }
+.video-interface{
+    position: relative;
+    left: 1rem;
+    bottom: 1rem;
+}
+.button-add{ 
+    display: inline;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+.right-elements-2{
+    float: right;
+    display: relative;
+    bottom: 10rem;
+    
+}
+#dislike{
+    padding-right: 2rem;
+}
+.show-more{
+    text-align: center;
+    padding: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-top: gray solid 0.01rem;
+    text-decoration: none;
+}
+    
