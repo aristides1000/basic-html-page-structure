@@ -7,7 +7,6 @@ body{
     font-family: Roboto, Arial;
     font-style: normal;
     font-weight: 500;
-
 }
 
 input[name=search] {
@@ -198,12 +197,86 @@ color: #ffffff;
 .txttittle{
     font-size: 1.2em;
 }
+
 .txtuser{
     font-size: 0.7em;
 }
+
 .txtviews{
     font-size: 0.6em;
 }
+
 .padding-bottom {
     padding-bottom: 1rem;
+}
+
+.title-box{
+    position: relative;
+    width: 100%;
+    top: -117rem;
+}
+
+#main-title{
+    font-size: 1.5rem;
+}
+
+.video-info{
+    display: flex;
+}
+
+.channel-owner{
+    display: flex;
+    flex-direction: column;
+}
+
+.channel-owner-name{
+    position: relative;
+    font-size: 1rem;
+    top: -1rem;
+}
+
+.subscribe{
+    display: flex;
+    position: relative;
+    top: -1.5rem;
+    color: white;
+}
+
+.subscribe-button{
+    border: red;
+    background-color: red;
+    padding: 0.3rem;
+}
+
+.button-number-channel-followers{
+    border: solid 1px rgb(80, 80, 80);
+    background-color: rgb(240, 240, 240);
+    padding: 0.3rem;
+    color: black;
+}
+
+.padding-left-2{
+    padding-left: 1.5rem;
+}
+
+.views{
+    position: relative;
+    top: 2rem;
+    left: 38rem;
+}
+
+.hr-channel-info{
+    position: relative;
+    bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.hr-channel-info-2{
+    width: 10rem;
+    height: 0.2rem;
+    background-color: blue;
+    position: relative;
+    bottom: 1.7rem;
+    left: 49.55rem;
 }
