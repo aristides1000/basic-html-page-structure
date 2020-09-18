@@ -4,7 +4,7 @@
 
 body{
     background-color: #EEEEEE;
-    font-family: Roboto;
+    font-family: Roboto, Arial;
     font-style: normal;
     font-weight: 500;
 
@@ -82,7 +82,7 @@ input[name=search] {
 }
 
 .number1 {
-background-color: rgb(22, 122, 198);
+
 color: #ffffff;
 }
 
@@ -104,8 +104,7 @@ color: #ffffff;
     position: relative;
     text-decoration: none;
     color: #ffffff;
-    right: 1em;
-    bottom: 2.5em;
+
 }
 .language {
  padding-left: 1em;
@@ -173,7 +172,7 @@ color: #ffffff;
 }
 
 #height-playlist{
-    height: 400rem;
+    height: 150rem;
 }
 
 .text-color{
@@ -188,4 +187,23 @@ color: #ffffff;
     float: right;
     display: flex;
 }
-
+.thumbnails {
+    padding-top: 3.2rem;
+    
+}
+.thumbanilsElements{
+    display: flex;
+    padding-bottom: 1rem;
+}
+.txttittle{
+    font-size: 1.2em;
+}
+.txtuser{
+    font-size: 0.7em;
+}
+.txtviews{
+    font-size: 0.6em;
+}
+.padding-bottom {
+    padding-bottom: 1rem;
+}
