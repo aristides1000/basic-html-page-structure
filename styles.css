@@ -13,7 +13,7 @@ input[name=search] {
     background: #ffffff;
     float: left;
     padding: 0.6rem;
-    width: 80%;
+    width: 90%;
     font-size: 1rem;
     border: 0.1rem solid grey;
 }
@@ -21,7 +21,7 @@ input[name=search] {
 #button-search {
     float: left;
     cursor: pointer;
-    width: 20%;
+    width: 10%;
     font-size: 1rem;
     background: #f0f0f0;
     border: 0.1rem solid grey;
@@ -35,7 +35,7 @@ input[name=search] {
 }
 
 #input-button-search{
-    width: 50%;
+    width: 63%;
     position: absolute;
     left: 18.5%;
     top: 0.8rem;
@@ -55,13 +55,13 @@ input[name=search] {
 
 #upload-icon{
     position: absolute;
-    left: 75%;
+    left: 85%;
     top: 0.55rem;
 }
 
 #Sig-in-button{
     position: absolute;
-    left: 86%;
+    left: 93%;
     border: 1px solid grey;
     padding: 10px;
     background: #167ac6;
@@ -73,11 +73,8 @@ input[name=search] {
     display: flex;
     background-color: white;
     height: 4.25rem;
-    z-index: 1;
     position: relative;
     top: -8px;
-    width: 107%;
-    right: 8px;
 }
 
 .number1 {
@@ -88,15 +85,15 @@ color: #ffffff;
 .subnumber1 {
     background-color: rgb(255, 255,255);
     padding: 1em;
-    border: 0.2em #167ac6 solid; 
+    border: 0.2em #167ac6 solid;
     color: #000000;
 }
+
 #learnmore{
     float: right;
     position: relative;
     bottom: 30px;
     text-decoration: none;
-    
 }
 #close{
     float: right;
@@ -315,4 +312,23 @@ color: #ffffff;
     display: flex;
     justify-content: center;
     line-height: 10rem;
+}
+
+.height-choose-your-language{
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    padding-right: 1rem;
+}
+
+.background-choose-your-language{
+    background-color: #167ac6;
+}
+
+.text-color-white{
+    color: white;
+}
+
+text-decoration-none{
+    text-decoration: none;
 }
