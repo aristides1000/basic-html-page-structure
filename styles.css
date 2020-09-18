@@ -1,334 +1,346 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-body{
-    background-color: #EEEEEE;
-    font-family: Roboto, Arial;
-    font-style: normal;
-    font-weight: 500;
+body {
+  background-color: #EEEEEE;
+  font-family: Roboto, Arial;
+  font-style: normal;
+  font-weight: 500;
 }
 
 input[name=search] {
-    background: #ffffff;
-    float: left;
-    padding: 0.6rem;
-    width: 90%;
-    font-size: 1rem;
-    border: 0.1rem solid grey;
+  background: #ffffff;
+  float: left;
+  padding: 0.6rem;
+  width: 90%;
+  font-size: 1rem;
+  border: 0.1rem solid grey;
 }
 
 #button-search {
-    float: left;
-    cursor: pointer;
-    width: 10%;
-    font-size: 1rem;
-    background: #f0f0f0;
-    border: 0.1rem solid grey;
-    border-left: none;
-    padding: 0.6rem;
-    color: #7e7e7e;
+  float: left;
+  cursor: pointer;
+  width: 10%;
+  font-size: 1rem;
+  background: #f0f0f0;
+  border: 0.1rem solid grey;
+  border-left: none;
+  padding: 0.6rem;
+  color: #7e7e7e;
 }
 
 #button-search:hover {
-    background: #bdbdbd;
+  background: #bdbdbd;
 }
 
-#input-button-search{
-    width: 63%;
-    position: absolute;
-    left: 18.5%;
-    top: 0.8rem;
+#input-button-search {
+  width: 63%;
+  position: absolute;
+  left: 18.5%;
+  top: 0.8rem;
 }
 
-#menu-icon{
-    position: absolute;
-    left: 1.5%;
-    top: 0.5rem;
+#menu-icon {
+  position: absolute;
+  left: 1.5%;
+  top: 0.5rem;
 }
 
-#youtube-icon{
-    position: absolute;
-    left: 7.5%;
-    top: -0.5rem;
+#youtube-icon {
+  position: absolute;
+  left: 7.5%;
+  top: -0.5rem;
 }
 
-#upload-icon{
-    position: absolute;
-    left: 85%;
-    top: 0.55rem;
+#upload-icon {
+  position: absolute;
+  left: 85%;
+  top: 0.55rem;
 }
 
-#Sig-in-button{
-    position: absolute;
-    left: 93%;
-    border: 1px solid grey;
-    padding: 10px;
-    background: #167ac6;
-    color: white;
-    top: 0.8rem;
+#Sig-in-button {
+  position: absolute;
+  left: 93%;
+  border: 1px solid grey;
+  padding: 10px;
+  background: #167ac6;
+  color: white;
+  top: 0.8rem;
 }
 
-.nav{
-    display: flex;
-    background-color: white;
-    height: 4.25rem;
-    position: relative;
-    top: -8px;
+.nav {
+  display: flex;
+  background-color: white;
+  height: 4.25rem;
+  position: relative;
+  top: -8px;
 }
 
 .number1 {
 
-color: #ffffff;
+  color: #ffffff;
 }
 
 .subnumber1 {
-    background-color: rgb(255, 255,255);
-    padding: 1em;
-    border: 0.2em #167ac6 solid;
-    color: #000000;
+  background-color: rgb(255, 255, 255);
+  padding: 1em;
+  border: 0.2em #167ac6 solid;
+  color: #000000;
 }
 
-#learnmore{
-    float: right;
-    position: relative;
-    bottom: 30px;
-    text-decoration: none;
+#learnmore {
+  float: right;
+  position: relative;
+  bottom: 30px;
+  text-decoration: none;
 }
-#close{
-    float: right;
-    position: relative;
-    text-decoration: none;
-    color: #ffffff;
+
+#close {
+  float: right;
+  position: relative;
+  text-decoration: none;
+  color: #ffffff;
 
 }
+
 .language {
- padding-left: 1em;
-}
-#sublanguage{
-    padding-left: 1em;
-}
-#icons{
-    padding-left: 1em;
+  padding-left: 1em;
 }
 
-#youtube-video{
-    padding-top: 1rem;
-    padding-right: 1rem;
-    padding-bottom: 1rem;
-    background-color: #EEEEEE;
+#sublanguage {
+  padding-left: 1em;
 }
 
-.grid-container{
-    display: grid;
-    grid-template-columns: auto auto;
-    grid-gap: 10px;
+#icons {
+  padding-left: 1em;
 }
 
-.video-grid-size{
-    width: 66.4rem;
+#youtube-video {
+  padding-top: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  background-color: #EEEEEE;
 }
 
-.video-list-grid{
-    position: relative;
-    right: 0.6rem;
-    padding-top: 1rem;
-    padding-left: 1rem;
-    padding-bottom: 1rem;
-    background-color: #EEEEEE;
-    width: 100%;
-    width: 35.39rem;
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
 }
 
-.background-white{
-    background-color: white;
+.video-grid-size {
+  width: 66.4rem;
 }
 
-#up-next{
-    float: left;
-    color: black;
+.video-list-grid {
+  position: relative;
+  right: 0.6rem;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  background-color: #EEEEEE;
+  width: 100%;
+  width: 35.39rem;
 }
 
-#autoplay{
-    float: right;
-    color: black;
+.background-white {
+  background-color: white;
+}
+
+#up-next {
+  float: left;
+  color: black;
+}
+
+#autoplay {
+  float: right;
+  color: black;
 
 }
 
-.padding-right{
-    padding-right: 1rem;
+.padding-right {
+  padding-right: 1rem;
 }
 
-.padding-left{
-    padding-left: 1rem;
+.padding-left {
+  padding-left: 1rem;
 }
 
-.padding-top{
-    padding-top: 1rem;
+.padding-top {
+  padding-top: 1rem;
 }
 
-#height-playlist{
-    height: 156rem;
+#height-playlist {
+  height: 156rem;
 }
 
-.text-color{
-    color: black;
+.text-color {
+  color: black;
 }
 
-.left-elements{
-    float: left;
+.left-elements {
+  float: left;
 }
 
-.right-elements{
-    float: right;
-    display: flex;
-    
+.right-elements {
+  float: right;
+  display: flex;
+
 }
+
 .thumbnails {
-    padding-top: 3.2rem;
-    
-}
-.thumbanilsElements{
-    display: flex;
-    padding-bottom: 1rem;
-}
-.txttittle{
-    font-size: 1.2em;
+  padding-top: 3.2rem;
+
 }
 
-.txtuser{
-    font-size: 0.7em;
+.thumbanilsElements {
+  display: flex;
+  padding-bottom: 1rem;
 }
 
-.txtviews{
-    font-size: 0.6em;
+.txttittle {
+  font-size: 1.2em;
+}
+
+.txtuser {
+  font-size: 0.7em;
+}
+
+.txtviews {
+  font-size: 0.6em;
 }
 
 .padding-bottom {
-    padding-bottom: 1rem;
+  padding-bottom: 1rem;
 }
 
-.title-box{
-    position: relative;
-    width: 100%;
-    top: -117rem;
+.title-box {
+  position: relative;
+  width: 100%;
+  top: -117rem;
 }
 
-#main-title{
-    font-size: 1.5rem;
+#main-title {
+  font-size: 1.5rem;
 }
 
-.video-info{
-    display: flex;
+.video-info {
+  display: flex;
 }
 
-.channel-owner{
-    display: flex;
-    flex-direction: column;
+.channel-owner {
+  display: flex;
+  flex-direction: column;
 }
 
-.channel-owner-name{
-    position: relative;
-    font-size: 1rem;
-    top: -1rem;
+.channel-owner-name {
+  position: relative;
+  font-size: 1rem;
+  top: -1rem;
 }
 
-.subscribe{
-    display: flex;
-    position: relative;
-    top: -1.5rem;
-    color: white;
+.subscribe {
+  display: flex;
+  position: relative;
+  top: -1.5rem;
+  color: white;
 }
 
-.subscribe-button{
-    border: red;
-    background-color: red;
-    padding: 0.3rem;
+.subscribe-button {
+  border: red;
+  background-color: red;
+  padding: 0.3rem;
 }
 
-.button-number-channel-followers{
-    border: solid 1px rgb(80, 80, 80);
-    background-color: rgb(240, 240, 240);
-    padding: 0.3rem;
-    color: black;
+.button-number-channel-followers {
+  border: solid 1px rgb(80, 80, 80);
+  background-color: rgb(240, 240, 240);
+  padding: 0.3rem;
+  color: black;
 }
 
-.padding-left-2{
-    padding-left: 1.5rem;
+.padding-left-2 {
+  padding-left: 1.5rem;
 }
 
-.views{
-    position: relative;
-    top: 2rem;
-    left: 38rem;
+.views {
+  position: relative;
+  top: 2rem;
+  left: 38rem;
 }
 
-.hr-channel-info{
-    position: relative;
-    bottom: 1rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+.hr-channel-info {
+  position: relative;
+  bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
-.hr-channel-info-2{
-    width: 10rem;
-    height: 0.2rem;
-    background-color: blue;
-    position: relative;
-    bottom: 1.7rem;
-    left: 49.55rem;
-}
-.video-interface{
-    position: relative;
-    left: 1rem;
-    bottom: 1rem;
-}
-.button-add{ 
-    display: inline;
-    margin: 0.5rem;
-    padding: 0.5rem;
-}
-.right-elements-2{
-    float: right;
-    display: relative;
-    bottom: 10rem;
-    
-}
-#dislike{
-    padding-right: 2rem;
-}
-.show-more{
-    text-align: center;
-    padding: 1rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
-    border-top: gray solid 0.01rem;
-    text-decoration: none;
+.hr-channel-info-2 {
+  width: 10rem;
+  height: 0.2rem;
+  background-color: blue;
+  position: relative;
+  bottom: 1.7rem;
+  left: 49.55rem;
 }
 
-.loading-comments{
-    height: 10rem;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    line-height: 10rem;
+.video-interface {
+  position: relative;
+  left: 1rem;
+  bottom: 1rem;
 }
 
-.height-choose-your-language{
-    padding-left: 1rem;
-    padding-top: 1rem;
-    padding-bottom: 2rem;
-    padding-right: 1rem;
+.button-add {
+  display: inline;
+  margin: 0.5rem;
+  padding: 0.5rem;
 }
 
-.background-choose-your-language{
-    background-color: #167ac6;
+.right-elements-2 {
+  float: right;
+  display: relative;
+  bottom: 10rem;
+
 }
 
-.text-color-white{
-    color: white;
+#dislike {
+  padding-right: 2rem;
 }
 
-text-decoration-none{
-    text-decoration: none;
+.show-more {
+  text-align: center;
+  padding: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  border-top: gray solid 0.01rem;
+  text-decoration: none;
+}
+
+.loading-comments {
+  height: 10rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  line-height: 10rem;
+}
+
+.height-choose-your-language {
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  padding-right: 1rem;
+}
+
+.background-choose-your-language {
+  background-color: #167ac6;
+}
+
+.text-color-white {
+  color: white;
+}
+
+text-decoration-none {
+  text-decoration: none;
 }
