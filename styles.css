@@ -3,8 +3,8 @@
 }
 
 body {
-  background-color:#eee;
-  font-family: Roboto, Arial;
+  background-color: #eee;
+  font-family: Arial;
   font-style: normal;
   font-weight: 500;
 }
@@ -78,7 +78,6 @@ input[name=search] {
 }
 
 .number1 {
-
   color: #fff;
 }
 
@@ -101,7 +100,6 @@ input[name=search] {
   position: relative;
   text-decoration: none;
   color: #fff;
-
 }
 
 .language {
@@ -120,7 +118,7 @@ input[name=search] {
   padding-top: 1rem;
   padding-right: 1rem;
   padding-bottom: 1rem;
-  background-color:#eee;
+  background-color: #eee;
 }
 
 .grid-container {
@@ -139,7 +137,7 @@ input[name=search] {
   padding-top: 1rem;
   padding-left: 1rem;
   padding-bottom: 1rem;
-  background-color:#eee;
+  background-color: #eee;
   width: 100%;
   width: 35.39rem;
 }
@@ -156,7 +154,6 @@ input[name=search] {
 #autoplay {
   float: right;
   color: black;
-
 }
 
 .padding-right {
@@ -186,12 +183,10 @@ input[name=search] {
 .right-elements {
   float: right;
   display: flex;
-
 }
 
 .thumbnails {
   padding-top: 3.2rem;
-
 }
 
 .thumbanilsElements {
@@ -300,9 +295,7 @@ input[name=search] {
 
 .right-elements-2 {
   float: right;
-  display: relative;
   bottom: 10rem;
-
 }
 
 #dislike {
@@ -339,8 +332,4 @@ input[name=search] {
 
 .text-color-white {
   color: white;
-}
-
-text-decoration-none {
-  text-decoration: none;
 }
