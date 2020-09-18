@@ -171,7 +171,7 @@ color: #ffffff;
 }
 
 #height-playlist{
-    height: 150rem;
+    height: 156rem;
 }
 
 .text-color{
@@ -308,4 +308,11 @@ color: #ffffff;
     border-top: gray solid 0.01rem;
     text-decoration: none;
 }
-    
+
+.loading-comments{
+    height: 10rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    line-height: 10rem;
+}
