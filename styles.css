@@ -333,3 +333,13 @@ input[name=search] {
 .text-color-white {
   color: white;
 }
+
+.thumbnails-pic-size{
+  height: 50%;
+  width: 50%;
+}
+
+.mainCheck-dimensions{
+  height: 100%;
+  width: 100%;
+}
