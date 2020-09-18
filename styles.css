@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color:#EEE;
+  background-color:#eee;
   font-family: Roboto, Arial;
   font-style: normal;
   font-weight: 500;
@@ -120,7 +120,7 @@ input[name=search] {
   padding-top: 1rem;
   padding-right: 1rem;
   padding-bottom: 1rem;
-  background-color:#EEE;
+  background-color:#eee;
 }
 
 .grid-container {
@@ -139,7 +139,7 @@ input[name=search] {
   padding-top: 1rem;
   padding-left: 1rem;
   padding-bottom: 1rem;
-  background-color:#EEE;
+  background-color:#eee;
   width: 100%;
   width: 35.39rem;
 }
