@@ -19,7 +19,7 @@ git
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://aristides1000.github.io/basic-html-page-structure/)
 
 
 ## Getting Started
