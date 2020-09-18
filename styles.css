@@ -3,14 +3,14 @@
 }
 
 body {
-  background-color: #EEEEEE;
+  background-color:#EEE;
   font-family: Roboto, Arial;
   font-style: normal;
   font-weight: 500;
 }
 
 input[name=search] {
-  background: #ffffff;
+  background: #fff;
   float: left;
   padding: 0.6rem;
   width: 90%;
@@ -79,14 +79,14 @@ input[name=search] {
 
 .number1 {
 
-  color: #ffffff;
+  color: #fff;
 }
 
 .subnumber1 {
   background-color: rgb(255, 255, 255);
   padding: 1em;
   border: 0.2em #167ac6 solid;
-  color: #000000;
+  color: #000;
 }
 
 #learnmore {
@@ -100,7 +100,7 @@ input[name=search] {
   float: right;
   position: relative;
   text-decoration: none;
-  color: #ffffff;
+  color: #fff;
 
 }
 
@@ -120,7 +120,7 @@ input[name=search] {
   padding-top: 1rem;
   padding-right: 1rem;
   padding-bottom: 1rem;
-  background-color: #EEEEEE;
+  background-color:#EEE;
 }
 
 .grid-container {
@@ -139,7 +139,7 @@ input[name=search] {
   padding-top: 1rem;
   padding-left: 1rem;
   padding-bottom: 1rem;
-  background-color: #EEEEEE;
+  background-color:#EEE;
   width: 100%;
   width: 35.39rem;
 }
