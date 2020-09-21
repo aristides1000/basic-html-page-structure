@@ -9,10 +9,9 @@ This webpage was the project number 1 from microverse curriculum.
 We intend to make the page the most similar as the original one.
 
 ## Built With
-git 
-- HTML5 
-- CSS3 
-- Git 
+- HTML5
+- CSS3
+- Git
 - Github
 - Lintern
 - VSCode
@@ -48,8 +47,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Ariel Camus CEO Microverse - For letting us start this journey
-Google - For letting us find crucial information in order to create this project
+Ariel Camus CEO Microverse, for letting us start this journey
+Google, for letting us find crucial information in order to create this project
 
 ## 📝 License
 
