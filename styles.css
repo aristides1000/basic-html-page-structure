@@ -53,20 +53,28 @@ input[name=search] {
   top: -0.5rem;
 }
 
-#upload-icon {
+#new-video-icon {
   position: absolute;
   left: 85%;
   top: 0.55rem;
 }
 
-#Sig-in-button {
+#app-icon {
   position: absolute;
-  left: 93%;
-  border: 1px solid grey;
-  padding: 10px;
-  background: #167ac6;
-  color: white;
-  top: 0.8rem;
+  left: 88.5%;
+  top: 0.55rem;
+}
+
+.bell-icon{
+  position: absolute;
+  left: 92%;
+  top: 0.55rem;
+}
+
+.perfil-pic{
+  position: absolute;
+  left: 95.5%;
+  top: 0.55rem;
 }
 
 .nav {
