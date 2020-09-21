@@ -9,7 +9,7 @@ This webpage was the project number 1 from microverse curriculum.
 We intend to make the page the most similar as the original one.
 
 ## Built With
-git 
+
 - HTML5 
 - CSS3 
 - Git 
