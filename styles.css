@@ -1,0 +1,352 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eee;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+input[name=search] {
+  background: #fff;
+  float: left;
+  padding: 0.6rem;
+  width: 90%;
+  font-size: 1rem;
+  border: 0.1rem solid grey;
+}
+
+#button-search {
+  float: left;
+  cursor: pointer;
+  width: 10%;
+  font-size: 1rem;
+  background: #f0f0f0;
+  border: 0.1rem solid grey;
+  border-left: none;
+  padding: 0.6rem;
+  color: #7e7e7e;
+}
+
+#button-search:hover {
+  background: #bdbdbd;
+}
+
+#input-button-search {
+  width: 63%;
+  position: absolute;
+  left: 18.5%;
+  top: 0.8rem;
+}
+
+#menu-icon {
+  position: absolute;
+  left: 1.5%;
+  top: 0.5rem;
+}
+
+#youtube-icon {
+  position: absolute;
+  left: 7.5%;
+  top: -0.5rem;
+}
+
+#new-video-icon {
+  position: absolute;
+  left: 85%;
+  top: 0.55rem;
+}
+
+#app-icon {
+  position: absolute;
+  left: 88.5%;
+  top: 0.55rem;
+}
+
+.bell-icon {
+  position: absolute;
+  left: 92%;
+  top: 0.55rem;
+}
+
+.perfil-pic {
+  position: absolute;
+  left: 95.5%;
+  top: 0.55rem;
+}
+
+.nav {
+  display: flex;
+  background-color: white;
+  height: 4.25rem;
+  position: relative;
+  top: -8px;
+}
+
+.number1 {
+  color: #fff;
+}
+
+.subnumber1 {
+  background-color: rgb(255, 255, 255);
+  padding: 1em;
+  border: 0.2em #167ac6 solid;
+  color: #000;
+}
+
+#learnmore {
+  float: right;
+  position: relative;
+  bottom: 30px;
+  text-decoration: none;
+}
+
+#close {
+  float: right;
+  position: relative;
+  text-decoration: none;
+  color: #fff;
+}
+
+.language {
+  padding-left: 1em;
+}
+
+#sublanguage {
+  padding-left: 1em;
+}
+
+#icons {
+  padding-left: 1em;
+}
+
+#youtube-video {
+  padding-top: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  width: 100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+}
+
+.video-grid-size {
+  width: 66.4rem;
+}
+
+.video-list-grid {
+  position: relative;
+  right: 0.6rem;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  background-color: #eee;
+  width: 100%;
+}
+
+.background-white {
+  background-color: white;
+}
+
+#up-next {
+  float: left;
+  color: black;
+}
+
+#autoplay {
+  float: right;
+  color: black;
+}
+
+.padding-right {
+  padding-right: 1rem;
+}
+
+.padding-left {
+  padding-left: 1rem;
+}
+
+.padding-top {
+  padding-top: 1rem;
+}
+
+#height-playlist {
+  height: 156rem;
+}
+
+.text-color {
+  color: black;
+}
+
+.left-elements {
+  float: left;
+}
+
+.right-elements {
+  float: right;
+  display: flex;
+}
+
+.thumbnails {
+  padding-top: 3.2rem;
+}
+
+.thumbanilsElements {
+  display: flex;
+  padding-bottom: 1rem;
+}
+
+.txttittle {
+  font-size: 1.2em;
+}
+
+.txtuser {
+  font-size: 0.7em;
+}
+
+.txtviews {
+  font-size: 0.6em;
+}
+
+.padding-bottom {
+  padding-bottom: 1rem;
+}
+
+.title-box {
+  position: relative;
+  width: 100%;
+  top: -117rem;
+}
+
+#main-title {
+  font-size: 1.5rem;
+}
+
+.video-info {
+  display: flex;
+}
+
+.channel-owner {
+  display: flex;
+  flex-direction: column;
+}
+
+.channel-owner-name {
+  position: relative;
+  font-size: 1rem;
+  top: -1rem;
+}
+
+.subscribe {
+  display: flex;
+  position: relative;
+  top: -1.5rem;
+  color: white;
+}
+
+.subscribe-button {
+  border: red;
+  background-color: red;
+  padding: 0.3rem;
+}
+
+.button-number-channel-followers {
+  border: solid 1px rgb(80, 80, 80);
+  background-color: rgb(240, 240, 240);
+  padding: 0.3rem;
+  color: black;
+}
+
+.padding-left-2 {
+  padding-left: 1.5rem;
+}
+
+.views {
+  position: relative;
+  top: 2rem;
+  left: 70%;
+}
+
+.hr-channel-info {
+  position: relative;
+  bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.hr-channel-info-2 {
+  width: 10rem;
+  height: 0.2rem;
+  background-color: blue;
+  position: relative;
+  bottom: 1.7rem;
+  left: 86%;
+}
+
+.video-interface {
+  position: relative;
+  left: 1rem;
+  bottom: 1rem;
+}
+
+.button-add {
+  display: inline;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.right-elements-2 {
+  float: right;
+  bottom: 10rem;
+}
+
+#dislike {
+  padding-right: 2rem;
+}
+
+.show-more {
+  text-align: center;
+  padding: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  border-top: gray solid 0.01rem;
+  text-decoration: none;
+}
+
+.loading-comments {
+  height: 10rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  line-height: 10rem;
+}
+
+.height-choose-your-language {
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  padding-right: 1rem;
+}
+
+.background-choose-your-language {
+  background-color: #167ac6;
+}
+
+.text-color-white {
+  color: white;
+}
+
+.thumbnails-pic-size {
+  height: 50%;
+  width: 50%;
+}
+
+.mainCheck-dimensions {
+  height: 100%;
+  width: 100%;
+}

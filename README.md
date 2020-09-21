@@ -1,59 +1,40 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Youtube Clone - Basic HTML/CSS Page
 
-> One paragraph statement about the project.
-
+> We create a clone of a youtube webview from scratch.
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This webpage was the project number 1 from microverse curriculum.
+We intend to make the page the most similar as the original one.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5 
+- CSS3 
+- Git 
+- Github
+- Lintern
+- VSCode
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://aristides1000.github.io/basic-html-page-structure/)
 
 ## Authors
 
 👤 **Author1**
+Aristides Jose Molina
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@aristides100](https://github.com/aristides1000)
+- Twitter: [@aristides_1000](https://twitter.com/@aristides_1000)
+- LinkedIn: [Aristides Jose Molina Perez](https://www.linkedin.com/in/aristides-jose-molina-perez-09b0579a)
 
 👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+Carlos Eduardo Ospina
+- GitHub: [@carloso0114](https://github.com/carloso0114)
+- Twitter: [@Carlos_Osp1](https://twitter.com/Carlos_Osp1)
+- LinkedIn: [Carlos Ospina](https://www.linkedin.com/in/carlos-ospina-242b831a6/)
 
 ## 🤝 Contributing
 
@@ -67,9 +48,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Ariel Camus CEO Microverse - For letting us start this journey
+Google - For letting us find crucial information in order to create this project
 
 ## 📝 License
 
