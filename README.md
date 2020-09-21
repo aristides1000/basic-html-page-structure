@@ -21,43 +21,20 @@ git
 
 [Live Demo Link](https://aristides1000.github.io/basic-html-page-structure/)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
 👤 **Author1**
 Aristides Jose Molina
 
-- GitHub: [@githubhandle](https://github.com/aristides1000)
-- Twitter: [@twitterhandle](https://twitter.com/@aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-jose-molina-perez-09b0579a)
+- GitHub: [@aristides100](https://github.com/aristides1000)
+- Twitter: [@aristides_1000](https://twitter.com/@aristides_1000)
+- LinkedIn: [Aristides Jose Molina Perez](https://www.linkedin.com/in/aristides-jose-molina-perez-09b0579a)
 
 👤 **Author2**
 Carlos Eduardo Ospina
-- GitHub: [@githubhandle](https://github.com/carloso0114)
-- Twitter: [@twitterhandle](https://twitter.com/Carlos_Osp1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/carlos-ospina-242b831a6/)
+- GitHub: [@carloso0114](https://github.com/carloso0114)
+- Twitter: [@Carlos_Osp1](https://twitter.com/Carlos_Osp1)
+- LinkedIn: [Carlos Ospina](https://www.linkedin.com/in/carlos-ospina-242b831a6/)
 
 ## 🤝 Contributing
 
