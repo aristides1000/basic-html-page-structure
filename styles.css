@@ -18,7 +18,7 @@ input[name=search] {
   border: 0.1rem solid grey;
 }
 
-#button-search {
+.button-search {
   float: left;
   cursor: pointer;
   width: 10%;
@@ -30,36 +30,36 @@ input[name=search] {
   color: #7e7e7e;
 }
 
-#button-search:hover {
+.button-search:hover {
   background: #bdbdbd;
 }
 
-#input-button-search {
+.input-button-search {
   width: 63%;
   position: absolute;
   left: 18.5%;
   top: 0.8rem;
 }
 
-#menu-icon {
+.menu-icon {
   position: absolute;
   left: 1.5%;
   top: 0.5rem;
 }
 
-#youtube-icon {
+.youtube-icon {
   position: absolute;
   left: 7.5%;
   top: -0.5rem;
 }
 
-#new-video-icon {
+.new-video-icon {
   position: absolute;
   left: 85%;
   top: 0.55rem;
 }
 
-#app-icon {
+.app-icon {
   position: absolute;
   left: 88.5%;
   top: 0.55rem;
@@ -96,14 +96,14 @@ input[name=search] {
   color: #000;
 }
 
-#learnmore {
+.learnmore {
   float: right;
   position: relative;
   bottom: 30px;
   text-decoration: none;
 }
 
-#close {
+.close {
   float: right;
   position: relative;
   text-decoration: none;
@@ -114,15 +114,15 @@ input[name=search] {
   padding-left: 1em;
 }
 
-#sublanguage {
+.sublanguage {
   padding-left: 1em;
 }
 
-#icons {
+.icons {
   padding-left: 1em;
 }
 
-#youtube-video {
+.youtube-video {
   padding-top: 1rem;
   padding-right: 1rem;
   padding-bottom: 1rem;
@@ -153,12 +153,12 @@ input[name=search] {
   background-color: white;
 }
 
-#up-next {
+.up-next {
   float: left;
   color: black;
 }
 
-#autoplay {
+.autoplay {
   float: right;
   color: black;
 }
@@ -173,10 +173,6 @@ input[name=search] {
 
 .padding-top {
   padding-top: 1rem;
-}
-
-#height-playlist {
-  height: 156rem;
 }
 
 .text-color {
@@ -223,7 +219,7 @@ input[name=search] {
   top: -117rem;
 }
 
-#main-title {
+.main-title {
   font-size: 1.5rem;
 }
 
@@ -305,7 +301,7 @@ input[name=search] {
   bottom: 10rem;
 }
 
-#dislike {
+.dislike {
   padding-right: 2rem;
 }
 
