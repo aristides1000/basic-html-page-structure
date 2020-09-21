@@ -269,7 +269,7 @@ input[name=search] {
 .views {
   position: relative;
   top: 2rem;
-  left: 38rem;
+  left: 70%;
 }
 
 .hr-channel-info {
@@ -285,7 +285,7 @@ input[name=search] {
   background-color: blue;
   position: relative;
   bottom: 1.7rem;
-  left: 49.55rem;
+  left: 86%;
 }
 
 .video-interface {
