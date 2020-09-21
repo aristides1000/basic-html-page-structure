@@ -126,7 +126,7 @@ input[name=search] {
   padding-top: 1rem;
   padding-right: 1rem;
   padding-bottom: 1rem;
-  background-color: #eee;
+  width: 100%;
 }
 
 .grid-container {
@@ -147,7 +147,6 @@ input[name=search] {
   padding-bottom: 1rem;
   background-color: #eee;
   width: 100%;
-  width: 35.39rem;
 }
 
 .background-white {
